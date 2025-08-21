@@ -59,7 +59,7 @@ This project is part of my **data analytics portfolio**, showcasing my skills in
 
 ---
 
-## 📈 Expected Insights
+## 📈 Insights
 - Which continents and countries were most affected (absolute vs per-capita terms)
 - Variations in testing rates and mortality ratios
 - Identification of unusual data patterns or outliers
